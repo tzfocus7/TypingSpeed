@@ -156,7 +156,7 @@ body{
 
 @media (max-width: 730px){
     .wrapper{
-        height: 80%;
+        height: 90%;
         padding: 18px;
     }
     .content-box .content{
@@ -211,19 +211,6 @@ body{
 }
 
 @media (max-width: 385px){
-    .typing-text p{
-        font-size: 12px;
-    }
-    .result-details li p{
-        font-size: 12px;
-    }
-    .result-details li span{
-        font-size: 12px;
-        margin-left: 5px;
-    }
-    .content button{
-        font-size: 12px;
-    }
     .content .result-details{
         display: flex;
         flex-direction: column;
